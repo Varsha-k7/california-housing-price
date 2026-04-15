@@ -3,7 +3,7 @@
 
 ---
 
-**Submitted by:** Varsha Kumari 
+**Submitted by:** Varsha Kumari.  
 **Internship Program:** AI/ML Internship
 **Date:** 15 April 2026
 **Tools Used:** Python 3.14 · Pandas · Scikit-learn · Matplotlib · Seaborn · Jupyter Notebook
